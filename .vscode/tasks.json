@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Compilar e Executar C++",
+        "type": "shell",
+        "command": "${workspaceFolder}\\build_and_run.bat",
+        "args": [
+          "${file}",
+          "${fileDirname}\\${fileBasenameNoExtension}.exe"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"],
+        "detail": "Compila e executa o código C++ com TDM-GCC via script"
+      }
+    ]
+  }
