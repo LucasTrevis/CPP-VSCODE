@@ -14,7 +14,7 @@ Se não for, alterar para o caminho correto!
  
 ### 1. Clone este repositório
 ```bash
-git clone https://github.com/seu-usuario/cpp-vscode-fatec.git
+git clone https://github.com/LucasTrevis/CPP-VSCODE
 ```
 ### 3. Baixe a extensão do C++ no VSCODE
 
