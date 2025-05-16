@@ -30,7 +30,7 @@ git clone https://github.com/LucasTrevis/CPP-VSCODE
 ---
 ### Problemas comuns
  
-Erro 'g++' não reconhecido: verifique se o caminho do compilador está no PATH.
+Erro 'g++' não reconhecido: verifique se o caminho do compilador está correto no build_and_run.bat.
 VSCode não reconhece o arquivo de configuração: certifique-se de estar na pasta correta e com as extensões instaladas.
  
  
